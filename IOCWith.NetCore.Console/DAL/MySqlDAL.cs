@@ -1,4 +1,4 @@
-﻿namespace IOCWith.NetCore.Console;
+﻿namespace IOCWith.NetCore.Console.DAL;
 
 public class MySqlDAL: IDAL
 {

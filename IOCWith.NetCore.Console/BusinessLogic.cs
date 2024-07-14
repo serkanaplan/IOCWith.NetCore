@@ -1,4 +1,6 @@
-﻿namespace IOCWith.NetCore.Console;
+﻿using IOCWith.NetCore.Console.DAL;
+
+namespace IOCWith.NetCore.Console;
 
 public class BusinessLogic(IDAL dal)
 {
